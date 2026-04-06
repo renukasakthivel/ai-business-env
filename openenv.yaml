@@ -1,0 +1,6 @@
+environment:
+  name: "Business Intelligence Env"
+  version: "1.0.0"
+  description: "AI-Powered Business Intelligence & Decision Intelligence Environment"
+  entry_point: "env.environment:BusinessIntelligenceEnv"
+  requirements: "requirements.txt"
